@@ -34,6 +34,7 @@
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
+          {{ include gAds.html }}
         </section>
 
         <aside id="sidebar">
@@ -67,13 +68,6 @@
         ga('send', 'pageview');
       </script>
 
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      <script>
-           (adsbygoogle = window.adsbygoogle || []).push({
-                google_ad_client: "ca-pub-4943199096653900",
-                enable_page_level_ads: true
-           });
-      </script>
     {% endif %}
   </body>
 </html>
