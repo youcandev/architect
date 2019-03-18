@@ -10,4 +10,6 @@ I'm trying out using github pages to capture and share my learnings.
 *   Github Pages
 *   Golang
 *   Jenkins
-[Link to another page](./another-page.html).
+*   [Link to another page](./another-page.html)
+
+[WIP Template](./template.html)
