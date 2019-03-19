@@ -9,12 +9,12 @@ I'm trying out using github pages to capture and share my learnings.
 
 ## Topics
 
--   IaC
-   -  [Create Centos7 VM with Packer and configure with Ansible](./ansibleCentos7.html)
--   Kubernetes
--   Github Pages
--   Golang
-   -   HelloWorld
--   Jenkins
+1.   IaC
+  1.  [Create Centos7 VM with Packer and configure with Ansible](./ansibleCentos7.html)
+1.   Kubernetes
+1.   Github Pages
+1.   Golang
+  1.   HelloWorld
+1.   Jenkins
 
 [WIP Template](./template.html)
