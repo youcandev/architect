@@ -16,4 +16,4 @@ This page attempts to create a Centos 7 VM from code using ansible.
 
 
 # links
-[https://github.com/youcandev/basicCentos7/](Example Code )
+[Example Code](https://github.com/youcandev/basicCentos7/ )
