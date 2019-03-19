@@ -16,6 +16,5 @@ I'm trying out using github pages to capture and share my learnings.
 -   Golang
   -   HelloWorld
 -   Jenkins
--   [Link to another page](./another-page.html)
 
 [WIP Template](./template.html)
